@@ -45,6 +45,8 @@ namespace KillEm
         int POGOSTOST_SPAWN_health = 700; //manjša številka, večja pogostost pojavitev zdravja
         int st_tock = 0;
 
+        int oskus = 0;
+        int a;
         //poskus za github - zbriši me
 
         public Main()
