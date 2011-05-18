@@ -1,0 +1,2 @@
+C:\Users\c0dehunter\Dropbox\Faks\Drugi semester\XNA\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\c0dehunter\Dropbox\Faks\Drugi semester\DODATNO\XNA\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+C:\Users\c0dehunter\Dropbox\Faks\XNA\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\c0dehunter\Dropbox\Faks\XNA\KillEm\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Dropbox\Faks\XNA\KillEm\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
